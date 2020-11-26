@@ -1,0 +1,15 @@
+Z:\Projects\Premits Api\Permits.Model\bin\Debug\netcoreapp3.1\Permits.Model.deps.json
+Z:\Projects\Premits Api\Permits.Model\bin\Debug\netcoreapp3.1\Permits.Model.dll
+Z:\Projects\Premits Api\Permits.Model\bin\Debug\netcoreapp3.1\Permits.Model.pdb
+Z:\Projects\Premits Api\Permits.Model\bin\Debug\netcoreapp3.1\Permits.Core.dll
+Z:\Projects\Premits Api\Permits.Model\bin\Debug\netcoreapp3.1\Permits.Core.pdb
+Z:\Projects\Premits Api\Permits.Model\obj\Debug\netcoreapp3.1\Permits.Model.csprojAssemblyReference.cache
+Z:\Projects\Premits Api\Permits.Model\obj\Debug\netcoreapp3.1\Permits.Model.AssemblyInfoInputs.cache
+Z:\Projects\Premits Api\Permits.Model\obj\Debug\netcoreapp3.1\Permits.Model.AssemblyInfo.cs
+Z:\Projects\Premits Api\Permits.Model\obj\Debug\netcoreapp3.1\Permits.Model.csproj.CopyComplete
+Z:\Projects\Premits Api\Permits.Model\obj\Debug\netcoreapp3.1\Permits.Model.dll
+Z:\Projects\Premits Api\Permits.Model\obj\Debug\netcoreapp3.1\Permits.Model.pdb
+Z:\Projects\Premits Api\Permits.Model\bin\Debug\netcoreapp3.1\Permits.Model.runtimeconfig.json
+Z:\Projects\Premits Api\Permits.Model\bin\Debug\netcoreapp3.1\Permits.Model.runtimeconfig.dev.json
+Z:\Projects\Premits Api\Permits.Model\obj\Debug\netcoreapp3.1\Permits.Model.genruntimeconfig.cache
+Z:\Projects\Premits Api\Permits.Model\obj\Debug\netcoreapp3.1\Permits.Model.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+Z:\Projects\Premits Api\Permits.Core\bin\Debug\netstandard2.0\Permits.Core.deps.json
+Z:\Projects\Premits Api\Permits.Core\bin\Debug\netstandard2.0\Permits.Core.dll
+Z:\Projects\Premits Api\Permits.Core\bin\Debug\netstandard2.0\Permits.Core.pdb
+Z:\Projects\Premits Api\Permits.Core\obj\Debug\netstandard2.0\Permits.Core.csprojAssemblyReference.cache
+Z:\Projects\Premits Api\Permits.Core\obj\Debug\netstandard2.0\Permits.Core.AssemblyInfoInputs.cache
+Z:\Projects\Premits Api\Permits.Core\obj\Debug\netstandard2.0\Permits.Core.AssemblyInfo.cs
+Z:\Projects\Premits Api\Permits.Core\obj\Debug\netstandard2.0\Permits.Core.csproj.CoreCompileInputs.cache
+Z:\Projects\Premits Api\Permits.Core\obj\Debug\netstandard2.0\Permits.Core.dll
+Z:\Projects\Premits Api\Permits.Core\obj\Debug\netstandard2.0\Permits.Core.pdb
